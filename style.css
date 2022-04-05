@@ -1,12 +1,8 @@
 body {
     background-color: lightblue;
-}
-
-p {
-    text-align: center;
+    test-align: center;
 }
 
 h1 {
-    text-align: center;
     color: red;
 }

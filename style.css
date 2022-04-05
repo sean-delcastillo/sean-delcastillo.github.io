@@ -9,8 +9,9 @@ html {
 
 body {
     background-color: lightblue;
+    text-align: center;
     display: table-cell;
-    vertical-align: middle;
+    }
 }
 
 h1 {

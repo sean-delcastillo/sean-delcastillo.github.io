@@ -6,13 +6,18 @@
         }
     </style>
 
+    <body>
+
     <head>
         <meta charset="utf-8">
         <link rel="stylesheet" href="style.css">
         <title>Bro idk</title> 
     </head>
 
-    <body>
+    <div class ="floating thing">
+        <p>This should float. Idk.</p>
+    </div>
+
         <a href="http://jquery.com/">jQuery</a>
         <script src="jquery.js"></script>
         <script>
@@ -33,7 +38,7 @@
             jQuery(function($) {
               $(document).ready( function() {
                 //enabling stickUp on the '.navbar-wrapper' class
-                $('.body').stickUp();
+                $('.floating thing').stickUp();
               });
             });
 

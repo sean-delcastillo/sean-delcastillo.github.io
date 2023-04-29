@@ -5,3 +5,9 @@ entries:
       - title: Github
         url: https://github.com/sean-delcastillo
       - title: Full-time student @ CSUF, expected graduation Fall 2023
+  - title: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: show more
+      show_more_url: archive.html

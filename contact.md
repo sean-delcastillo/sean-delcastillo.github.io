@@ -2,6 +2,8 @@
 layout: post
 title: Contact Me
 ---
-- <sean@seandelcastillo.com>
-- <dev@seandelcastillo.com>
-- <https://www.linkedin.com/in/seanbdcastillo/>
+# Primary Contact
+<me@seandelcastillo.com>
+
+# LinkedIn
+<https://www.linkedin.com/in/seanbdcastillo/>

@@ -1,11 +1,10 @@
 entries:
-  - title: my info
+  - title: My Info
     entries:
-      - title: Full-time student at Cal State Fullerton
+      - title: Full-time student at CSUF
       - title: Studying Computer Science
-
-entries:
-  - title: my links
+      - title: Expected Graduation Fall 2023
+  - title: My Links
     entries:
       - title: Github
         url: https://github.com/sean-delcastillo
@@ -13,9 +12,11 @@ entries:
         url: resume.html
       - title: Contact
         url: contact.html
-  - title: posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: show more
-      show_more_url: archive.html
+      - title: Projects
+        url: projects.html
+#  - title: Posts
+#    post_list:
+#      limit: 5
+#      show_more: true
+#      show_more_text: show more
+#      show_more_url: archive.html

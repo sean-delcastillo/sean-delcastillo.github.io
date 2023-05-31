@@ -49,4 +49,4 @@ Associate in Science Transfer, Mathematics 2021
 
 ---
 
-Download as [PDF]("downloads/resume_2023_web.pdf")
+Download as [PDF](downloads/resume_2023_web.pdf)

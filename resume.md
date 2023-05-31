@@ -48,5 +48,3 @@ Associate in Science Transfer, Mathematics 2021
   - Git, Robot Operating System (ROS), Django, Flask, mySQL
 
 ---
-
-Download as [Formatted PDF](downloads/resume_2023.pdf)

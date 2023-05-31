@@ -7,7 +7,7 @@ category: about-me
 Sean Del Castillo
 =================
 
-Send inquiries to <sean@seandelcastillo.com>
+Send inquiries to <me@seandelcastillo.com>
 
 or contact via [LinkedIn](https://www.linkedin.com/in/seanbdcastillo/)
 

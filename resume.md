@@ -31,7 +31,7 @@ Associate in Science Transfer, Mathematics 2021
 
 # Technical Experience
 ## Projects
-### Titan Rover Autonomous System (Spring 2023)
+### [Titan Rover Autonomous System (Spring 2023)](projects.html/#titan-rover)
 - As sub-team lead worked with team lead to develop software architecture 
   - Developed autonomous systems API for standardized communication. 
   - Familiarized with Robot Operating System (ROS) and Docker.

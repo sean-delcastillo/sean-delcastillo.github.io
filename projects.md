@@ -4,6 +4,15 @@ title: Projects
 category: project
 ---
 
+## Table of Contents
+- [PTG Scroller](#ptg-scroller)
+- [Titan Rover](#titan-rover)
+
+# PTG Scroller
+PTG Scroller is an Terminal User Interface (TUI) e-reader library for reading .scrl ("Scroll") files using Balázs Cene's Python TUI framework PyTermGUI.
+- [Documentation](http://ptgscroller.seandelcastillo.com/)
+- [Repository](https://github.com/sean-delcastillo/PTGScroller)
+
 # Titan Rover
 The Titan Rover is California State University, Fullerton's submission to the [Mars Society's University Rover Challenge (URC)](https://urc.marssociety.org/).
 The Titan Rover is a remotely operated rover platform fit to accomplish tasks to assist astronauts in difficult Martian terrain.

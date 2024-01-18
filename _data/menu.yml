@@ -1,15 +1,13 @@
 entries:
   - title: My Info
     entries:
-      - title: Full-time student at CSUF
-      - title: Studying Computer Science
-      - title: Expected Graduation Fall 2023
+      - title: Software Engineer
+      - title: Interested in Virtual Reality and Robotics
+      - title: Recent CS Grad @ CSUF
   - title: My Links
     entries:
       - title: Github
         url: https://github.com/sean-delcastillo
-      - title: Resume
-        url: resume.html
       - title: Contact
         url: contact.html
       - title: Projects

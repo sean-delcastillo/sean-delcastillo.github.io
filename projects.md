@@ -12,7 +12,9 @@ category: project
 
 # VR Mech Game
 
-Info Coming Soon
+Exploring vehicle controls in virtual reality.
+
+More Info Coming Soon.
 
 # PTG Scroller
 

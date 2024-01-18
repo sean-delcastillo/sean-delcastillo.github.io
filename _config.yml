@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sean Del Castillo
-email: sean@seandelcastillo.com
+email: me@seandelcastillo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sean Del Castillo's personal website.
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sean-delcastillo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username:  sean-delcastillo
+github_username: sean-delcastillo
 
 # Build settings
 remote_theme: sean-delcastillo/no-style-please

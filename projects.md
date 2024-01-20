@@ -6,16 +6,9 @@ category: project
 
 ## Table of Contents
 
-- [MyHead](#myhead)
 - [VR Mech Game](#vr-mech-game)
 - [PTG Scroller](#ptg-scroller)
 - [Titan Rover](#titan-rover)
-
-# MyHead
-
-This is my head.
-
-- [MyHead](myhead.md)
 
 # VR Mech Game
 

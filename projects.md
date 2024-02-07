@@ -5,10 +5,14 @@ category: project
 ---
 
 ## Table of Contents
-
+- [CodecRTC](#codecrtc)
 - [VR Mech Game](#vr-mech-game)
 - [PTG Scroller](#ptg-scroller)
 - [Titan Rover](#titan-rover)
+
+# CodecRTC
+Peer-to-Peer video calling using the WebRTC project. UI inspired by the Metal Gear Solid series.
+- [Link](https://codecrtc.web.app/)
 
 # VR Mech Game
 
